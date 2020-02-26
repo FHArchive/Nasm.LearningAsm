@@ -18,10 +18,18 @@ syntax
 ## Files
 C and NASM variants of the following programs:
 - swapFunction
+
 Takes two values and swaps the positions of them. Eg. swap 1 2 returns 2 1
 - parrot
-Takes user input from stdin and echo back to the user
 
+Takes user input from stdin and echo back to the user
+- heyThere
+
+Outputs the text "Hey There"
+- regContentsBin
+
+Outputs the value of an int (a register in the case of asm) in binary format.
+eg. 10 -> 0b1010
 
 ## Language information (NASM)
 ### Built for
