@@ -1,10 +1,10 @@
-[![Github top language](https://img.shields.io/github/languages/top/FredHappyface/Nasm.LearningAsm.svg?style=for-the-badge&logo=github)](../../)
-[![Codacy grade](https://img.shields.io/codacy/grade/cf9449b3cd8d426bb1d678fe92d92a75.svg?style=for-the-badge&logo=codacy)](https://www.codacy.com/manual/FredHappyface/Nasm.LearningAsm)
-[![Repository size](https://img.shields.io/github/repo-size/FredHappyface/Nasm.LearningAsm.svg?style=for-the-badge&logo=github)](../../)
-[![Issues](https://img.shields.io/github/issues/FredHappyface/Nasm.LearningAsm.svg?style=for-the-badge&logo=github)](../../issues)
-[![License](https://img.shields.io/github/license/FredHappyface/Nasm.LearningAsm.svg?style=for-the-badge&logo=open-source-initiative)](/LICENSE.md)
-[![Commit activity](https://img.shields.io/github/commit-activity/m/FredHappyface/Nasm.LearningAsm.svg?style=for-the-badge&logo=github)](../../commits/master)
-[![Last commit](https://img.shields.io/github/last-commit/FredHappyface/Nasm.LearningAsm.svg?style=for-the-badge&logo=github)](../../commits/master)
+[![Github top language](https://img.shields.io/github/languages/top/FredHappyface/Nasm.LearningAsm.svg?style=for-the-badge)](../../)
+[![Codacy grade](https://img.shields.io/codacy/grade/cf9449b3cd8d426bb1d678fe92d92a75.svg?style=for-the-badge)](https://www.codacy.com/manual/FredHappyface/Nasm.LearningAsm)
+[![Repository size](https://img.shields.io/github/repo-size/FredHappyface/Nasm.LearningAsm.svg?style=for-the-badge)](../../)
+[![Issues](https://img.shields.io/github/issues/FredHappyface/Nasm.LearningAsm.svg?style=for-the-badge)](../../issues)
+[![License](https://img.shields.io/github/license/FredHappyface/Nasm.LearningAsm.svg?style=for-the-badge)](/LICENSE.md)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/FredHappyface/Nasm.LearningAsm.svg?style=for-the-badge)](../../commits/master)
+[![Last commit](https://img.shields.io/github/last-commit/FredHappyface/Nasm.LearningAsm.svg?style=for-the-badge)](../../commits/master)
 
 # Nasm.LearningAsm
 
