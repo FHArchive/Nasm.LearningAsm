@@ -1,11 +1,10 @@
-[![Github top language](https://img.shields.io/github/languages/top/FredHappyface/Nasm.LearningAsm.svg?style=flat-square)](../../)
-[![Codacy grade](https://img.shields.io/codacy/grade/[codacy-proj-id].svg?style=flat-square)](https://www.codacy.com/manual/FredHappyface/Nasm.LearningAsm)
-[![Codacy coverage](https://img.shields.io/codacy/coverage/[codacy-proj-id].svg?style=flat-square)](https://www.codacy.com/manual/FredHappyface/Nasm.LearningAsm)
-[![Repository size](https://img.shields.io/github/repo-size/FredHappyface/Nasm.LearningAsm.svg?style=flat-square)](../../)
-[![Issues](https://img.shields.io/github/issues/FredHappyface/Nasm.LearningAsm.svg?style=flat-square)](../../issues)
-[![License](https://img.shields.io/github/license/FredHappyface/Nasm.LearningAsm.svg?style=flat-square)](/LICENSE.md)
-[![Commit activity](https://img.shields.io/github/commit-activity/m/FredHappyface/Nasm.LearningAsm.svg?style=flat-square)](../../commits/master)
-[![Last commit](https://img.shields.io/github/last-commit/FredHappyface/Nasm.LearningAsm.svg?style=flat-square)](../../commits/master)
+[![Github top language](https://img.shields.io/github/languages/top/FredHappyface/Nasm.LearningAsm.svg?style=for-the-badge&logo=github)](../../)
+[![Codacy grade](https://img.shields.io/codacy/grade/cf9449b3cd8d426bb1d678fe92d92a75.svg?style=for-the-badge&logo=codacy)](https://www.codacy.com/manual/FredHappyface/Nasm.LearningAsm)
+[![Repository size](https://img.shields.io/github/repo-size/FredHappyface/Nasm.LearningAsm.svg?style=for-the-badge&logo=github)](../../)
+[![Issues](https://img.shields.io/github/issues/FredHappyface/Nasm.LearningAsm.svg?style=for-the-badge&logo=github)](../../issues)
+[![License](https://img.shields.io/github/license/FredHappyface/Nasm.LearningAsm.svg?style=for-the-badge&logo=open-source-initiative)](/LICENSE.md)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/FredHappyface/Nasm.LearningAsm.svg?style=for-the-badge&logo=github)](../../commits/master)
+[![Last commit](https://img.shields.io/github/last-commit/FredHappyface/Nasm.LearningAsm.svg?style=for-the-badge&logo=github)](../../commits/master)
 
 # Nasm.LearningAsm
 
